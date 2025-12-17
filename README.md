@@ -19,5 +19,11 @@ A professional C#/.NET application for automated network discovery, device class
 2. **Setup:** Clone the repository and open the `.sln` file in Visual Studio.
 3. **Run:** Build and run the project. The app will automatically detect your local subnet and start the scan.
 
+## Future Roadmap
+The project is functional, with planned enhancements including:
+* **Advanced Heuristics:** Implementing a scoring system for suspicious device activity based on unconventional port combinations.
+* **Network Graph Visualization:** Adding a visual topology map to display device connections.
+* **CVE Integration:** Automatically cross-referencing identified service versions with the NVD (National Vulnerability Database).
+
 ## License
 This project is for educational purposes as part of a professional software development portfolio.
